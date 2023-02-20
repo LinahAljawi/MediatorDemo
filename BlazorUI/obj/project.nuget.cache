@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "P4CHW7+JeYWiRicZBAicG5uPKy+C0d9NIcm5dvI7b8ohGPQqa4eKJ3TNg7HBAp9NECKqQZxYwOdNaQxbBuMYiQ==",
+  "dgSpecHash": "F1H4vnCQWdA7H5p8fqlILfBBEvXLaFNbkB368X/dPehCqgyjA1Wq0nNQgMi9tWBj+VSDB715xLXgwwv3U3322g==",
   "success": true,
   "projectFilePath": "C:\\Users\\linah\\Documents\\GitHub\\MediatorDemo\\BlazorUI\\BlazorUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\linah\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
     "C:\\Users\\linah\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",
+    "C:\\Users\\linah\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\linah\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\linah\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\linah\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
