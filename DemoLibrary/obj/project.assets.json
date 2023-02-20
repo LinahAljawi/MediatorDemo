@@ -206,11 +206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linah\\Desktop\\Asp.net\\Tasks\\Task2\\MediatorDemo\\DemoLibrary\\DemoLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\linah\\Documents\\GitHub\\MediatorDemo\\DemoLibrary\\DemoLibrary.csproj",
       "projectName": "DemoLibrary",
-      "projectPath": "C:\\Users\\linah\\Desktop\\Asp.net\\Tasks\\Task2\\MediatorDemo\\DemoLibrary\\DemoLibrary.csproj",
+      "projectPath": "C:\\Users\\linah\\Documents\\GitHub\\MediatorDemo\\DemoLibrary\\DemoLibrary.csproj",
       "packagesPath": "C:\\Users\\linah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linah\\Desktop\\Asp.net\\Tasks\\Task2\\MediatorDemo\\DemoLibrary\\obj\\",
+      "outputPath": "C:\\Users\\linah\\Documents\\GitHub\\MediatorDemo\\DemoLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\linah\\AppData\\Roaming\\NuGet\\NuGet.Config",

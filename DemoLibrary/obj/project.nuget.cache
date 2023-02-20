@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oB2pXfkktqziOeQBhF6+PT86lw2hOLB9GPHhtyZLnAtiYiCYZOu9gHu2UcDMv9PbAsskIIqP5ZKOg0w+QT/tRg==",
+  "dgSpecHash": "qBoQwMSJGVC+QU9r9yScPrb1xsd+gcz6KEfMp7xw2DRq9CxQOcvQsduIc24gInfveMJR1evvF0GAq/CrchNpzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\linah\\Desktop\\Asp.net\\Tasks\\Task2\\MediatorDemo\\DemoLibrary\\DemoLibrary.csproj",
+  "projectFilePath": "C:\\Users\\linah\\Documents\\GitHub\\MediatorDemo\\DemoLibrary\\DemoLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\linah\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
     "C:\\Users\\linah\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",

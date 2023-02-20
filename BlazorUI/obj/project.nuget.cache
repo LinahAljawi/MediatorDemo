@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0fM4PBSAUeQSP8KTjxVfNdlpxpJKobwvybzinH18fq6zSPiXUGO4WWRvLJ7mXt9UI/h4R9Tkj0K1SUUIi/AX/A==",
+  "dgSpecHash": "P4CHW7+JeYWiRicZBAicG5uPKy+C0d9NIcm5dvI7b8ohGPQqa4eKJ3TNg7HBAp9NECKqQZxYwOdNaQxbBuMYiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\linah\\Desktop\\Asp.net\\Tasks\\Task2\\MediatorDemo\\BlazorUI\\BlazorUI.csproj",
+  "projectFilePath": "C:\\Users\\linah\\Documents\\GitHub\\MediatorDemo\\BlazorUI\\BlazorUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\linah\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
     "C:\\Users\\linah\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",
