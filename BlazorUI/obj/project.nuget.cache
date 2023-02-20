@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fM4PBSAUeQSP8KTjxVfNdlpxpJKobwvybzinH18fq6zSPiXUGO4WWRvLJ7mXt9UI/h4R9Tkj0K1SUUIi/AX/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linah\\Desktop\\Asp.net\\Tasks\\Task2\\MediatorDemo\\BlazorUI\\BlazorUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linah\\.nuget\\packages\\mediatr\\12.0.0\\mediatr.12.0.0.nupkg.sha512",
+    "C:\\Users\\linah\\.nuget\\packages\\mediatr.contracts\\2.0.0\\mediatr.contracts.2.0.0.nupkg.sha512",
+    "C:\\Users\\linah\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\linah\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\linah\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
